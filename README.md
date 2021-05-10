@@ -1,2 +1,2 @@
-# decArsousalDecisionmaking_JNeuroscience2021
-Repository for reproducing figures in the paper decArsousalDecisionmaking_JNeuroscience2021
+# decAlertnessDecisionmaking_JNeuroscience2021
+Repository for reproducing figures in the paper decAlertnessDecisionmaking_JNeuroscience2021

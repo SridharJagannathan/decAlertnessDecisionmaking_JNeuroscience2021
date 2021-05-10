@@ -20,5 +20,5 @@ eeglab_toolbox = [pathappend 'SpatialAttention_Drowsiness/Scripts/toolboxes/eegl
 addpath(genpath(eeglab_toolbox));
 
 %plot tools path
-plot_toolbox = [pathappend 'SpatialAttention_Drowsiness/decArsousalDecisionmaking_JNeuroscience2021/Scripts/plot_tools'];
+plot_toolbox = [pathappend 'SpatialAttention_Drowsiness/decAlertnessDecisionmaking_JNeuroscience2021/Scripts/plot_tools'];
 addpath(genpath(plot_toolbox));
