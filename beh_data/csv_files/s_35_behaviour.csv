@@ -172,14 +172,14 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",13,"L20","L",1,12,"L12",NaN,NaN,NaN,"Drowsy",171
 "s_35",3,"L10","L",1,60,"L60",0,1.931702796,8,"Grapho",172
 "s_35",48,"L17flip","R",2,35,"R35",NaN,NaN,NaN,"Drowsy",173
-"s_35",53,"L22flip","R",2,12,"R12",NaN,NaN,NaN,"Relaxed",174
+"s_35",53,"L22flip","R",2,12,"R12",NaN,NaN,NaN,"Drowsy",174
 "s_35",64,"R14flip","L",1,35,"L35",NaN,NaN,NaN,"Drowsy",175
 "s_35",63,"R13flip","L",1,60,"L60",0,1.622056509,8,"Drowsy",176
 "s_35",50,"L19flip","R",2,35,"R35",1,0.833362445,8,"Drowsy",177
 "s_35",41,"L10flip","R",2,60,"R60",1,0.840733091,8,"Drowsy",178
 "s_35",4,"L11","L",1,60,"L60",NaN,NaN,NaN,"Drowsy",179
 "s_35",35,"R23","R",2,12,"R12",NaN,NaN,NaN,"Grapho",180
-"s_35",55,"L24flip","R",2,12,"R12",NaN,NaN,NaN,"Grapho",181
+"s_35",55,"L24flip","R",2,12,"R12",NaN,NaN,NaN,"Drowsy",181
 "s_35",56,"L25flip","R",2,12,"R12",1,2.385557774,8,"Drowsy",182
 "s_35",53,"L22flip","R",2,12,"R12",1,0.518504028,8,"Drowsy",183
 "s_35",50,"L19flip","R",2,35,"R35",1,0.889171281,8,"Drowsy",184
@@ -215,9 +215,9 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",58,"R8flip","L",1,60,"L60",1,1.257009531,1,"Drowsy",214
 "s_35",54,"L23flip","R",2,12,"R12",NaN,NaN,NaN,"Drowsy",215
 "s_35",44,"L13flip","R",2,60,"R60",NaN,NaN,NaN,"Grapho",216
-"s_35",24,"R12","R",2,60,"R60",NaN,NaN,NaN,"Grapho",217
+"s_35",24,"R12","R",2,60,"R60",NaN,NaN,NaN,"Drowsy",217
 "s_35",22,"R10","R",2,60,"R60",1,1.6117754,8,"Grapho",218
-"s_35",70,"R20flip","L",1,12,"L12",NaN,NaN,NaN,"Drowsy",219
+"s_35",70,"R20flip","L",1,12,"L12",NaN,NaN,NaN,"Relaxed",219
 "s_35",10,"L17","L",1,35,"L35",0,2.589365123,8,"Drowsy",220
 "s_35",37,"R25","R",2,12,"R12",NaN,NaN,NaN,"Relaxed",221
 "s_35",38,"R0","R",0,0,"R0",1,1.142744568,8,"Drowsy",222
@@ -240,7 +240,7 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",75,"R25flip","L",1,12,"L12",NaN,NaN,NaN,"Drowsy",239
 "s_35",39,"L8flip","R",2,60,"R60",NaN,NaN,NaN,"Drowsy",240
 "s_35",33,"R21","R",2,12,"R12",NaN,NaN,NaN,"Drowsy",241
-"s_35",3,"L10","L",1,60,"L60",NaN,NaN,NaN,"Relaxed",242
+"s_35",3,"L10","L",1,60,"L60",NaN,NaN,NaN,"Drowsy",242
 "s_35",27,"R15","R",2,35,"R35",0,0.147308298,1,"Relaxed",243
 "s_35",57,"L0flip","R",0,0,"R0",NaN,NaN,NaN,"Relaxed",244
 "s_35",19,"L0","L",0,0,"L0",0,0.928684653,8,"Drowsy",245
@@ -264,7 +264,7 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",5,"L12","L",1,60,"L60",NaN,NaN,NaN,"Drowsy",263
 "s_35",69,"R19flip","L",1,35,"L35",NaN,NaN,NaN,"Grapho",264
 "s_35",46,"L15flip","R",2,35,"R35",0,1.431266863,1,"Grapho",265
-"s_35",19,"L0","L",0,0,"L0",NaN,NaN,NaN,"Grapho",266
+"s_35",19,"L0","L",0,0,"L0",NaN,NaN,NaN,"Relaxed",266
 "s_35",76,"R0flip","L",0,0,"L0",1,1.197008355,1,"Drowsy",267
 "s_35",44,"L13flip","R",2,60,"R60",NaN,NaN,NaN,"Drowsy",268
 "s_35",42,"L11flip","R",2,60,"R60",NaN,NaN,NaN,"Drowsy",269
@@ -272,7 +272,7 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",8,"L15","L",1,35,"L35",NaN,NaN,NaN,"Grapho",271
 "s_35",12,"L19","L",1,35,"L35",NaN,NaN,NaN,"Drowsy",272
 "s_35",71,"R21flip","L",1,12,"L12",0,1.979015002,8,"Drowsy",273
-"s_35",2,"L9","L",1,60,"L60",NaN,NaN,NaN,"Drowsy",274
+"s_35",2,"L9","L",1,60,"L60",NaN,NaN,NaN,"Relaxed",274
 "s_35",75,"R25flip","L",1,12,"L12",0,1.496681281,8,"Drowsy",275
 "s_35",47,"L16flip","R",2,35,"R35",1,1.82267151,8,"Drowsy",276
 "s_35",63,"R13flip","L",1,60,"L60",NaN,NaN,NaN,"Drowsy",277
@@ -285,7 +285,7 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",20,"R8","R",2,60,"R60",NaN,NaN,NaN,"Drowsy",284
 "s_35",26,"R14","R",2,35,"R35",NaN,NaN,NaN,"Drowsy",285
 "s_35",38,"R0","R",0,0,"R0",NaN,NaN,NaN,"Drowsy",286
-"s_35",62,"R12flip","L",1,60,"L60",NaN,NaN,NaN,"Grapho",287
+"s_35",62,"R12flip","L",1,60,"L60",NaN,NaN,NaN,"Drowsy",287
 "s_35",48,"L17flip","R",2,35,"R35",NaN,NaN,NaN,"Drowsy",288
 "s_35",29,"R17","R",2,35,"R35",1,1.009636975,8,"Drowsy",289
 "s_35",6,"L13","L",1,60,"L60",1,0.627484449,1,"Relaxed",290
@@ -308,8 +308,8 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",74,"R24flip","L",1,12,"L12",NaN,NaN,NaN,"Drowsy",307
 "s_35",10,"L17","L",1,35,"L35",NaN,NaN,NaN,"Grapho",308
 "s_35",35,"R23","R",2,12,"R12",NaN,NaN,NaN,"Grapho",309
-"s_35",72,"R22flip","L",1,12,"L12",NaN,NaN,NaN,"Grapho",310
-"s_35",56,"L25flip","R",2,12,"R12",1,2.136192291,8,"Drowsy",311
+"s_35",72,"R22flip","L",1,12,"L12",NaN,NaN,NaN,"Drowsy",310
+"s_35",56,"L25flip","R",2,12,"R12",1,2.136192291,8,"Relaxed",311
 "s_35",55,"L24flip","R",2,12,"R12",NaN,NaN,NaN,"Relaxed",312
 "s_35",22,"R10","R",2,60,"R60",1,0.89664523,8,"Drowsy",313
 "s_35",58,"R8flip","L",1,60,"L60",1,1.010353811,1,"Drowsy",314
@@ -321,7 +321,7 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",20,"R8","R",2,60,"R60",NaN,NaN,NaN,"Drowsy",320
 "s_35",35,"R23","R",2,12,"R12",NaN,NaN,NaN,"Drowsy",321
 "s_35",63,"R13flip","L",1,60,"L60",1,1.623917435,1,"Drowsy",322
-"s_35",11,"L18","L",1,35,"L35",NaN,NaN,NaN,"Drowsy",323
+"s_35",11,"L18","L",1,35,"L35",NaN,NaN,NaN,"Relaxed",323
 "s_35",17,"L24","L",1,12,"L12",0,0.885967039,8,"Drowsy",324
 "s_35",71,"R21flip","L",1,12,"L12",NaN,NaN,NaN,"Relaxed",325
 "s_35",23,"R11","R",2,60,"R60",1,1.144076221,8,"Drowsy",326
@@ -335,7 +335,7 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",59,"R9flip","L",1,60,"L60",0,1.885023693,8,"Drowsy",334
 "s_35",15,"L22","L",1,12,"L12",NaN,NaN,NaN,"Drowsy",335
 "s_35",20,"R8","R",2,60,"R60",NaN,NaN,NaN,"Drowsy",336
-"s_35",7,"L14","L",1,35,"L35",NaN,NaN,NaN,"Grapho",337
+"s_35",7,"L14","L",1,35,"L35",NaN,NaN,NaN,"Drowsy",337
 "s_35",29,"R17","R",2,35,"R35",NaN,NaN,NaN,"Grapho",338
 "s_35",40,"L9flip","R",2,60,"R60",1,0.695794328,8,"Drowsy",339
 "s_35",60,"R10flip","L",1,60,"L60",1,1.082806433,1,"Relaxed",340
@@ -397,7 +397,7 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",46,"L15flip","R",2,35,"R35",NaN,NaN,NaN,"Drowsy",396
 "s_35",37,"R25","R",2,12,"R12",NaN,NaN,NaN,"Drowsy",397
 "s_35",25,"R13","R",2,60,"R60",NaN,NaN,NaN,"Grapho",398
-"s_35",55,"L24flip","R",2,12,"R12",NaN,NaN,NaN,"Grapho",399
+"s_35",55,"L24flip","R",2,12,"R12",NaN,NaN,NaN,"Drowsy",399
 "s_35",56,"L25flip","R",2,12,"R12",NaN,NaN,NaN,"Grapho",400
 "s_35",9,"L16","L",1,35,"L35",NaN,NaN,NaN,"Drowsy",401
 "s_35",55,"L24flip","R",2,12,"R12",0,1.6404322,1,"Drowsy",402
@@ -407,7 +407,7 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",30,"R18","R",2,35,"R35",NaN,NaN,NaN,"Drowsy",406
 "s_35",65,"R15flip","L",1,35,"L35",NaN,NaN,NaN,"Drowsy",407
 "s_35",10,"L17","L",1,35,"L35",NaN,NaN,NaN,"Drowsy",408
-"s_35",17,"L24","L",1,12,"L12",NaN,NaN,NaN,"Grapho",409
+"s_35",17,"L24","L",1,12,"L12",NaN,NaN,NaN,"Drowsy",409
 "s_35",75,"R25flip","L",1,12,"L12",NaN,NaN,NaN,"Drowsy",410
 "s_35",56,"L25flip","R",2,12,"R12",1,1.955749479,8,"Drowsy",411
 "s_35",73,"R23flip","L",1,12,"L12",NaN,NaN,NaN,"Drowsy",412
@@ -418,7 +418,7 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",60,"R10flip","L",1,60,"L60",1,0.563092031,1,"Relaxed",417
 "s_35",52,"L21flip","R",2,12,"R12",1,0.333210682,8,"Relaxed",418
 "s_35",30,"R18","R",2,35,"R35",1,0.428977864,8,"NA",419
-"s_35",64,"R14flip","L",1,35,"L35",1,1.398698724,1,"Drowsy",420
+"s_35",64,"R14flip","L",1,35,"L35",1,1.398698724,1,"Relaxed",420
 "s_35",42,"L11flip","R",2,60,"R60",1,1.947790616,8,"Drowsy",421
 "s_35",71,"R21flip","L",1,12,"L12",NaN,NaN,NaN,"Drowsy",422
 "s_35",5,"L12","L",1,60,"L60",1,1.800096197,1,"Drowsy",423
@@ -430,7 +430,7 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",14,"L21","L",1,12,"L12",NaN,NaN,NaN,"Drowsy",429
 "s_35",45,"L14flip","R",2,35,"R35",1,0.350492074,8,"Relaxed",430
 "s_35",71,"R21flip","L",1,12,"L12",1,0.407258649,1,"Relaxed",431
-"s_35",23,"R11","R",2,60,"R60",1,0.409627182,8,"Drowsy",432
+"s_35",23,"R11","R",2,60,"R60",1,0.409627182,8,"Relaxed",432
 "s_35",5,"L12","L",1,60,"L60",1,0.401873509,1,"Relaxed",433
 "s_35",40,"L9flip","R",2,60,"R60",1,0.346221412,8,"Relaxed",434
 "s_35",7,"L14","L",1,35,"L35",1,1.131578418,1,"Drowsy",435
@@ -470,7 +470,7 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",4,"L11","L",1,60,"L60",NaN,NaN,NaN,"Drowsy",469
 "s_35",49,"L18flip","R",2,35,"R35",NaN,NaN,NaN,"Drowsy",470
 "s_35",15,"L22","L",1,12,"L12",NaN,NaN,NaN,"Drowsy",471
-"s_35",68,"R18flip","L",1,35,"L35",NaN,NaN,NaN,"Relaxed",472
+"s_35",68,"R18flip","L",1,35,"L35",NaN,NaN,NaN,"Drowsy",472
 "s_35",22,"R10","R",2,60,"R60",NaN,NaN,NaN,"Drowsy",473
 "s_35",9,"L16","L",1,35,"L35",1,2.08529463,1,"Drowsy",474
 "s_35",18,"L25","L",1,12,"L12",NaN,NaN,NaN,"Drowsy",475
@@ -496,9 +496,9 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",6,"L13","L",1,60,"L60",1,0.400140511,1,"Relaxed",495
 "s_35",2,"L9","L",1,60,"L60",1,0.496279388,1,"Relaxed",496
 "s_35",40,"L9flip","R",2,60,"R60",1,0.385270721,8,"Relaxed",497
-"s_35",33,"R21","R",2,12,"R12",0,0.398873729,1,"Drowsy",498
+"s_35",33,"R21","R",2,12,"R12",0,0.398873729,1,"Relaxed",498
 "s_35",33,"R21","R",2,12,"R12",1,0.364523804,8,"Relaxed",499
-"s_35",35,"R23","R",2,12,"R12",0,0.885644681,1,"Drowsy",500
+"s_35",35,"R23","R",2,12,"R12",0,0.885644681,1,"Relaxed",500
 "s_35",39,"L8flip","R",2,60,"R60",1,0.386813019,8,"Relaxed",501
 "s_35",1,"L8","L",1,60,"L60",1,0.674309092,1,"Drowsy",502
 "s_35",2,"L9","L",1,60,"L60",1,1.232549865,1,"Drowsy",503
@@ -538,8 +538,8 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",71,"R21flip","L",1,12,"L12",NaN,NaN,NaN,"Drowsy",537
 "s_35",21,"R9","R",2,60,"R60",NaN,NaN,NaN,"Drowsy",538
 "s_35",7,"L14","L",1,35,"L35",NaN,NaN,NaN,"Drowsy",539
-"s_35",53,"L22flip","R",2,12,"R12",0,1.099829264,1,"Drowsy",540
-"s_35",56,"L25flip","R",2,12,"R12",1,0.875047212,8,"Drowsy",541
+"s_35",53,"L22flip","R",2,12,"R12",0,1.099829264,1,"Relaxed",540
+"s_35",56,"L25flip","R",2,12,"R12",1,0.875047212,8,"Relaxed",541
 "s_35",37,"R25","R",2,12,"R12",NaN,NaN,NaN,"Drowsy",542
 "s_35",63,"R13flip","L",1,60,"L60",1,1.321691586,1,"Drowsy",543
 "s_35",52,"L21flip","R",2,12,"R12",NaN,NaN,NaN,"Drowsy",544
@@ -555,13 +555,13 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",35,"R23","R",2,12,"R12",NaN,NaN,NaN,"Drowsy",554
 "s_35",21,"R9","R",2,60,"R60",NaN,NaN,NaN,"Drowsy",555
 "s_35",1,"L8","L",1,60,"L60",1,0.568624115,1,"Drowsy",556
-"s_35",72,"R22flip","L",1,12,"L12",NaN,NaN,NaN,"Drowsy",557
+"s_35",72,"R22flip","L",1,12,"L12",NaN,NaN,NaN,"Relaxed",557
 "s_35",36,"R24","R",2,12,"R12",NaN,NaN,NaN,"Drowsy",558
 "s_35",36,"R24","R",2,12,"R12",NaN,NaN,NaN,"Drowsy",559
 "s_35",23,"R11","R",2,60,"R60",NaN,NaN,NaN,"Drowsy",560
 "s_35",33,"R21","R",2,12,"R12",NaN,NaN,NaN,"Drowsy",561
 "s_35",10,"L17","L",1,35,"L35",1,3.224646844,1,"Drowsy",562
-"s_35",54,"L23flip","R",2,12,"R12",0,0.974535077,1,"Drowsy",563
+"s_35",54,"L23flip","R",2,12,"R12",0,0.974535077,1,"Relaxed",563
 "s_35",11,"L18","L",1,35,"L35",0,1.299432967,8,"Drowsy",564
 "s_35",35,"R23","R",2,12,"R12",0,0.636113137,1,"Drowsy",565
 "s_35",27,"R15","R",2,35,"R35",1,1.21694544,8,"Drowsy",566
@@ -569,11 +569,11 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",10,"L17","L",1,35,"L35",1,0.376261738,1,"Drowsy",568
 "s_35",12,"L19","L",1,35,"L35",0,0.280074174,8,"Relaxed",569
 "s_35",47,"L16flip","R",2,35,"R35",0,0.329663292,1,"Drowsy",570
-"s_35",66,"R16flip","L",1,35,"L35",1,0.619428213,1,"Drowsy",571
+"s_35",66,"R16flip","L",1,35,"L35",1,0.619428213,1,"Relaxed",571
 "s_35",55,"L24flip","R",2,12,"R12",1,0.334943878,8,"Drowsy",572
 "s_35",13,"L20","L",1,12,"L12",1,0.484882346,1,"Relaxed",573
 "s_35",17,"L24","L",1,12,"L12",0,0.337232969,8,"Relaxed",574
-"s_35",51,"L20flip","R",2,12,"R12",1,0.346666525,8,"Drowsy",575
+"s_35",51,"L20flip","R",2,12,"R12",1,0.346666525,8,"Relaxed",575
 "s_35",58,"R8flip","L",1,60,"L60",1,0.409194955,1,"Relaxed",576
 "s_35",75,"R25flip","L",1,12,"L12",0,0.397481551,8,"Relaxed",577
 "s_35",22,"R10","R",2,60,"R60",1,0.562840705,8,"Relaxed",578
@@ -584,7 +584,7 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",14,"L21","L",1,12,"L12",1,1.045638817,1,"Relaxed",583
 "s_35",34,"R22","R",2,12,"R12",1,0.277928346,8,"Relaxed",584
 "s_35",23,"R11","R",2,60,"R60",1,0.29531375,8,"Relaxed",585
-"s_35",37,"R25","R",2,12,"R12",1,2.181924942,8,"Drowsy",586
+"s_35",37,"R25","R",2,12,"R12",1,2.181924942,8,"Relaxed",586
 "s_35",11,"L18","L",1,35,"L35",1,2.236447452,1,"Relaxed",587
 "s_35",1,"L8","L",1,60,"L60",1,0.427574991,1,"NA",588
 "s_35",65,"R15flip","L",1,35,"L35",1,0.522813589,1,"Relaxed",589
@@ -593,7 +593,7 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",36,"R24","R",2,12,"R12",1,0.894922194,8,"Relaxed",592
 "s_35",25,"R13","R",2,60,"R60",1,0.51401038,8,"NA",593
 "s_35",5,"L12","L",1,60,"L60",1,0.407033654,1,"Relaxed",594
-"s_35",37,"R25","R",2,12,"R12",0,0.434355691,1,"Drowsy",595
+"s_35",37,"R25","R",2,12,"R12",0,0.434355691,1,"Relaxed",595
 "s_35",50,"L19flip","R",2,35,"R35",1,0.437090118,8,"Relaxed",596
 "s_35",74,"R24flip","L",1,12,"L12",0,0.226862453,8,"NA",597
 "s_35",62,"R12flip","L",1,60,"L60",1,0.415684212,1,"Relaxed",598
@@ -643,7 +643,7 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",46,"L15flip","R",2,35,"R35",1,0.477734412,8,"Relaxed",642
 "s_35",16,"L23","L",1,12,"L12",0,0.817924578,8,"Relaxed",643
 "s_35",32,"R20","R",2,12,"R12",1,0.49305979,8,"NA",644
-"s_35",21,"R9","R",2,60,"R60",1,0.599685058,8,"Drowsy",645
+"s_35",21,"R9","R",2,60,"R60",1,0.599685058,8,"Relaxed",645
 "s_35",70,"R20flip","L",1,12,"L12",1,0.964464935,1,"Relaxed",646
 "s_35",68,"R18flip","L",1,35,"L35",0,0.631215958,8,"Relaxed",647
 "s_35",3,"L10","L",1,60,"L60",1,1.153853188,1,"Relaxed",648
@@ -807,7 +807,7 @@ Subj_id,Stim_id,Wav_fname,Stim_loc,Stim_lat,Stim_ang,Stim_dts,Acc,RT,Resp_but,Al
 "s_35",44,"L13flip","R",2,60,"R60",1,0.289057091,8,"Relaxed",806
 "s_35",35,"R23","R",2,12,"R12",1,0.346747259,8,"Relaxed",807
 "s_35",1,"L8","L",1,60,"L60",1,0.324184512,1,"Relaxed",808
-"s_35",50,"L19flip","R",2,35,"R35",1,0.215955699,8,"Drowsy",809
+"s_35",50,"L19flip","R",2,35,"R35",1,0.215955699,8,"Relaxed",809
 "s_35",46,"L15flip","R",2,35,"R35",1,0.474246005,8,"Relaxed",810
 "s_35",12,"L19","L",1,35,"L35",0,0.261698889,8,"Relaxed",811
 "s_35",47,"L16flip","R",2,35,"R35",1,0.438112841,8,"Relaxed",812
